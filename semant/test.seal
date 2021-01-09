@@ -1,0 +1,12 @@
+
+func x(c Void,b Float) Int{
+    var a Int;
+    var i Int;
+    var j Int;
+    var k Int;
+    for k=0;3;k=k+1{
+                if (3) {
+                    a=a+1;
+                }
+}
+}
